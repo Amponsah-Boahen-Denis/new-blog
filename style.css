@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+img{
+    width:940p;
+    height:250px;
+    border-radius: 10px;
+}
+p{
+    max-width:360px;
+    min-width:auto;
+    font-size: 18px;
+    box-shadow:4px 4px 5px rgba(0,0,0,0.2); 
+    margin-top: 10px;
+    border-radius:10px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+h1{
+    color: blue;
+}
+b{
+    margin-top:10px;
+    color: blue;
+    font-size: 23px;
+    max-width:360px;
+}
+.people{
+    width:380px;
+    height:250px;
+    border-radius: 10px;
+}
